@@ -43,7 +43,7 @@ name = "Contact"
 weight = 4
 [params]
 author = "Themefisher"
-copyright = "| Copyright &copy; 2022 [DOXATEC](https://DOXATEC.NETLIFY.APP) All Rights Reserved |"
+copyright = "| Copyright &copy; 2022 [DOXATEC](https://doxatec.netlify,app) All Rights Reserved |"
 currencySymbol = "Ksh"
 description = "This is meta description"
 email = "doxatec@gmail.com"
@@ -56,7 +56,7 @@ mapLatitude = "35.27022"
 mapLongitude = "0.51994"
 mapMarker = "images/marker.png"
 mobile = "0717829712"
-snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
+snipcartApiKey = "NGZjNjA4YWMtMjVhNS00NDEwLWI1NzItZTEzYjJlNzZjYjYzNjM3OTE0MDM5NDQ0NzQ4MDc2"
 [params.contact]
 formAction = "#"
 [[params.plugins.css]]
