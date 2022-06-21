@@ -51,7 +51,7 @@ gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSp
 googleAnalitycsID = ""
 home = "Home"
 location = "Eldoret, Kenya"
-logo = "images/image.png"
+logo = "images/logo.png"
 mapLatitude = "35.27022"
 mapLongitude = "0.51994"
 mapMarker = "images/marker.png"
