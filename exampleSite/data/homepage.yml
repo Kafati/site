@@ -66,10 +66,10 @@ advantage:
   - listItem: More Beautiful Face Skin
 video:
   enable: true
-  title: How To Use This Product?
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-    At vero eos et accusam et.
+  title: Cutting edge mosquitto trap
+  content: If it seems that you are invaded by mosquitoes at home, you can expect
+    a lot from the  Mosquito trapper. With its useful functions and reasonable price,
+    you cannot dismiss the importance of using this mosquito trap.
   videoThumb: images/products/trapper.jpeg
   videoURL: images/products/mosquitotrap.mp4
 products:
