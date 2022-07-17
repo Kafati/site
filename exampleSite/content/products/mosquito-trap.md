@@ -3,7 +3,7 @@ date = 2022-07-10T17:22:16Z
 description = "infrared mosquitto trap"
 price = "1999"
 priceBefore = "2500"
-productID = "1"
+productID = "2"
 shortDescription = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
 title = "mosquito trap"
 [[images]]
