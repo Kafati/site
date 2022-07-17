@@ -1,6 +1,6 @@
 ---
 title: Pet feeder
-date: 2022-07-10T20:22:16+03:00
+date: 2022-07-10T20:22:16.000+03:00
 description: A device that feeds your pet automatically.
 price: "2000"
 priceBefore: "2500"
