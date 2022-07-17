@@ -1,6 +1,6 @@
 +++
 date = 2022-07-10T17:22:16Z
-description = "A device that feeds your pet automatically."
+description = "infrared mosquitto trap"
 draft = true
 price = "1999"
 priceBefore = "2500"
