@@ -58,7 +58,7 @@ mapMarker = "images/marker.png"
 mobile = "+254725544628"
 snipcartApiKey = "NGZjNjA4YWMtMjVhNS00NDEwLWI1NzItZTEzYjJlNzZjYjYzNjM3OTE0MDM5NDQ0NzQ4MDc2"
 [params.contact]
-formAction = "#"
+formAction = "https://getform.io/f/9eddc3e4-5d60-4837-8984-7c107087eecc"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -75,7 +75,7 @@ link = "plugins/slick/slick.min.js"
 link = "plugins/google-map/gmap.js"
 [params.preloader]
 enable = true
-preloader = ""
+preloader = "images/spin.gif"
 [params.rating]
 enable = true
 publicKey = "811cf0927332bf51f2e12f84608594ac"
