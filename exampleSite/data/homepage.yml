@@ -70,7 +70,7 @@ video:
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
     At vero eos et accusam et.
-  videoThumb: images/video-thumb.jpg
+  videoThumb: images/products/trapper.jpeg
   videoURL: images/products/mosquitotrap.mp4
 products:
   enable: true
