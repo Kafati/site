@@ -75,7 +75,7 @@ link = "plugins/slick/slick.min.js"
 link = "plugins/google-map/gmap.js"
 [params.preloader]
 enable = true
-preloader = "images/spin.gif"
+preloader = "images/Spin.gif"
 [params.rating]
 enable = true
 publicKey = "811cf0927332bf51f2e12f84608594ac"
