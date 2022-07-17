@@ -1,7 +1,6 @@
 +++
 date = 2022-07-10T17:22:16Z
 description = "infrared mosquitto trap"
-draft = true
 price = "1999"
 priceBefore = "2500"
 productID = "1"
