@@ -11,7 +11,7 @@ banner:
     link: products/
   video:
     enable: true
-    videoURL: https://www.youtube.com/watch?v=6mBO2vqLv38
+    videoURL: images/products/feeder.mp4
 about:
   enable: true
   title: About Us
