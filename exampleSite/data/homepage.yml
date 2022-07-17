@@ -76,7 +76,7 @@ products:
   enable: true
   title: Products List
 testimonial:
-  enable: true
+  enable: false
   title: What People Are Saying <br> About Our Product
   testimonialItem:
   - name: Angelo Perara
