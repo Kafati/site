@@ -11,4 +11,4 @@ images:
 - image: images/products/petfeeder.png
 
 ---
-Control your pet's meal time from anywhere using your smartphone; Program up to 15 meals to feed on your pet's schedule; 1-50 portions per meals, about 5g per portions,Allows you to feed your cat or dog outside of normal feeding times，Help control body weight and establish good eating habits which will allow them to live a long and healthy life with you.
+Control your pet's meal time from anywhere using your smartphone; Program up to 15 meals to feed on your pet's schedule; 1-50 portions per meals, about 5g per portions, Allows you to feed your cat or dog outside of normal feeding times. Help control body weight and establish good eating habits which will allow them to live a long and healthy life with you.
